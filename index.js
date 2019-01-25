@@ -10,7 +10,7 @@ function BoardMember(name, homeState, training){
   }; 
   
    this.doCharity = function(){
-    console.log(`You can do that!`);
+    console.log(`I like to help people.`);
   }; 
   
   
