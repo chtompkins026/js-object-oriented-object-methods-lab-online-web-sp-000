@@ -14,7 +14,7 @@ function BoardMember(name, homeState, training){
   }; 
   
   this.releasePressStatement = function(){
-    console.log(`I like to help people.`);
+    console.log(`You will see great things from Scuber.`);
   }; 
   
 }
