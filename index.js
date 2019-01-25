@@ -9,6 +9,9 @@ function BoardMember(name, homeState, training){
     console.log(`You can do that!`);
   }; 
   
+   this.approve = function(){
+    console.log(`You can do that!`);
+  }; 
   
   
 }
