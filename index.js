@@ -17,4 +17,6 @@ function BoardMember(name, homeState, training){
     console.log(`You will see great things from Scuber.`);
   }; 
   
+  
+  
 }
