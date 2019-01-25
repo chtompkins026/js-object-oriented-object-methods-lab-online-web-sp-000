@@ -10,7 +10,7 @@ function BoardMember(name, homeState, training){
   }; 
   
    this.approve = function(){
-    console.log(`You can do that!`);
+    return "You can do that!";
   }; 
   
    this.doCharity = function(){
