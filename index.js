@@ -13,5 +13,8 @@ function BoardMember(name, homeState, training){
     console.log(`I like to help people.`);
   }; 
   
+  this.doCharity = function(){
+    console.log(`I like to help people.`);
+  }; 
   
 }
