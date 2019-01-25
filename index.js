@@ -17,7 +17,7 @@ function BoardMember(name, homeState, training){
     console.log(`You will see great things from Scuber.`);
   }; 
   
-   this.releasePressStatement = function(){
+   this.sayHi = function(){
     console.log(`You will see great things from Scuber.`);
   }; 
   
